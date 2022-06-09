@@ -1,1 +1,3 @@
 Texto adicionado na branch master
+Linha criada na branch teste
+
