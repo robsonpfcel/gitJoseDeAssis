@@ -4,4 +4,6 @@ Texto adicionado na branch master
 Esta linha foi criada na branch teste
 Texto digitado no github online - commit abaixo para salvar.
 Linha faculdade.
+Linha digitada repositorio local.
+
 
